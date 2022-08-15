@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#products {
+  width: 100%;
+  display: inline;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.card-group {
+  margin: auto;
+  width: 90%;
+  padding: 15px;
+  height: auto;
+}
+
+.card-img-top {
+  margin: 0 auto;
+  max-width: 200px;
+}
+
+.card-body {
+  max-width: 200px;
+}
+
+h1 {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+  color: black;
+}

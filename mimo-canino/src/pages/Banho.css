@@ -1,0 +1,76 @@
+/*GLOBAL*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+/*CABEÇA*/
+
+div #titulo {
+  margin-top: 80px;
+  font-size: 25px;
+  text-align: center;
+  color: black;
+}
+
+div #logo-top {
+  margin-top: 50px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*BODY*/
+
+.form-label {
+  padding: 5px;
+  font-size: 15px;
+}
+
+div #form-banho {
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+#observacoes {
+  margin-top: 25px;
+}
+
+#botao-banho {
+  width: 25%;
+  padding: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 25px;
+  color: white;
+}
+
+.btn:hover {
+  box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  border-color: black;
+  background-color: black;
+}
+
+.btn:active {
+  color: black;
+  border-color: white;
+  background-color: white;
+}
+
+/*BOTTOM*/
+
+div #direitos {
+  width: 100%;
+  padding: 13px;
+  color: white;
+  text-align: center;
+  height: 50px;
+  background-color: black;
+}
